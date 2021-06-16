@@ -4,6 +4,7 @@ Aplicativo oficial da Rede de Supermercados Campelo, Disponível nas plataformas
 😍 React Native
 🚀 API Node JS
 😁 Retaguarda FrontEnd React
+🤑 MySql
 
 ✔ Cadastro de Usuário
 ✔ Recuperação de senha pelo email Cadastrado
